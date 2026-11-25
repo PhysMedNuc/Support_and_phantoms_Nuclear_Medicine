@@ -34,23 +34,20 @@ The table below summarizes the number of copies of each STL file required to ass
 
 ## Repository Structure and Development Status
 
-### `main` branch
+### `stable_release` branch
 
-The `main` branch contains only phantom and support designs that have undergone experimental validation and have been approved through peer review.
+The `stable_release` branch contains only phantom and support designs that have undergone experimental validation.
 
-A reference paper describing these developments is currently under submission.
+A reference paper describing these developments and the validation is currently under submission.
 
 ### `develop` branch
 
 A `develop` branch will be made available soon. It will host phantoms and supports that are still under development or whose performance has not yet been experimentally validated.
 
-## License
+## Licence
 
-All hardware designs, 3D models, and associated design files provided in this repository are released under the CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0).
+All 3D models and associated files made available in this repository are released under the CERN Open Hardware Licence Version 2 – Weakly Reciprocal (CERN-OHL-W-2.0).
 
-These designs may be freely used, reproduced, modified, manufactured, and commercially distributed, provided that all applicable requirements of the CERN-OHL-S-2.0 are respected.
+These designs may be freely used, reproduced, modified, manufactured, and commercially distributed, provided that all applicable requirements of the licence are respected.
 
-In particular, any modified designs distributed publicly or incorporated into commercially distributed products must remain available under the same licence, together with their complete corresponding source files.
-
-Full licence text: https://ohwr.org/cern_ohl_s_v2.txt
-
+See LICENCE.txt for the full terms.
